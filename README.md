@@ -31,9 +31,3 @@ UX
 - Speech-to-Text/Screen Reader will be made available.  
 - If the user already uses some 3rd party service for it, the website will conform to the standard accessibility specifications for easy integration
 
-
-## Team Members
-- Sarvagnya Purohit
-- Pratiksha Sankhe
-- Jash Shah
-- Alishs Kamat
