@@ -1,0 +1,14 @@
+
+.floating {
+  position: fixed;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  color: #fff;
+}
+
+.fa{
+  font-size:24px;
+}
+
